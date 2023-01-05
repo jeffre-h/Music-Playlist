@@ -4,7 +4,7 @@
 Implemented a playlist of songs using the LinkedList data structure.
 Each Song is composed of an song name, artist name, length and position in the palylist.
 
-Supports operations such as 
+Supports and includes time complexity analysis of the following operations:
 - inserting new songs
 - removing songs
 - swapping positions of songs
